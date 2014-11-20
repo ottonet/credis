@@ -1,4 +1,1 @@
-Client.php lib/Credis/Client.php
-Cluster.php lib/Credis/Cluster.php
-phpunit.xml lib/Credis/phpunit.xml
-Sentinel.php lib/Credis/Sentinel.php
+*.php lib/Credis/ 
