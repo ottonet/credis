@@ -14,10 +14,10 @@
 	},
 	"extra": {
 	    "map": [
-		["Client.php", "lib/Client.php"],
-		["Cluster.php", "lib/Cluster.php"],
-		["Sentinel.php", "lib/Sentinel.php"],
-		["phpunit.xml", "lib/phpunit.xml"]		
+		["Client.php", "lib/Credis/Client.php"],
+		["Cluster.php", "lib/Credis/Cluster.php"],
+		["Sentinel.php", "lib/Credis/Sentinel.php"],
+		["phpunit.xml", "lib/Credis/phpunit.xml"]		
 	    ]
 	} 
 }
